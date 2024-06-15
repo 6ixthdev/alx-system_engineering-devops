@@ -9,4 +9,4 @@
 8-firstdelete - deleting the betty file
 9-firstdirdeletion - deleting my first directory in tmp folder
 10-back - Going back to a previous working directory
-
+11-lists - a script that prints what is in the current directory, parent directory and the boot directory
