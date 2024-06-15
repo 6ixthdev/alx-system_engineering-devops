@@ -12,3 +12,4 @@
 11-lists - a script that prints what is in the current directory, parent directory and the boot directory
 12-file_type - a script that prints the type of the file name iamafile
 13-symbolic_link - creating a symbolic link
+14-copy_html - copy all html files to folders without html files or update newer ones
