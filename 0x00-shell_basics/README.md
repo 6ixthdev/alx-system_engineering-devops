@@ -10,3 +10,4 @@
 9-firstdirdeletion - deleting my first directory in tmp folder
 10-back - Going back to a previous working directory
 11-lists - a script that prints what is in the current directory, parent directory and the boot directory
+12-file_type - a script that prints the type of the file name iamafile
