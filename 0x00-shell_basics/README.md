@@ -13,3 +13,4 @@
 12-file_type - a script that prints the type of the file name iamafile
 13-symbolic_link - creating a symbolic link
 14-copy_html - copy all html files to folders without html files or update newer ones
+100-lets_move - move all files that starts with uppercase to the tmp folder
