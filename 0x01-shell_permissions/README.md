@@ -8,3 +8,5 @@
 7-everybody - still giving multiple permission to the file hello
 8-James_Bond -  the anser is in the title of the challenge
 9-John_Doe - this is a john doe file
+10-mirror_permissions - mirroring file permissions
+
