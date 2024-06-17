@@ -14,3 +14,4 @@
 13-symbolic_link - creating a symbolic link
 14-copy_html - copy all html files to folders without html files or update newer ones
 100-lets_move - move all files that starts with uppercase to the tmp folder
+101-clean_emacs - Deletes all files that contains this character ~
