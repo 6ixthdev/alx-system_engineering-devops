@@ -16,3 +16,4 @@
 100-lets_move - move all files that starts with uppercase to the tmp folder
 101-clean_emacs - Deletes all files that contains this character ~
 102-tree - Create folder inside a folder
+103-commas - Manipulations with a simple command
