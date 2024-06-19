@@ -3,3 +3,4 @@
 2-hellofile - Prints the content of the /etc/passwd
 3-twofiles - prints the content of two files
 4-lastlines - prints the last 10 lines of a file
+5-firstlines - pritns the first 10 lines of a file
