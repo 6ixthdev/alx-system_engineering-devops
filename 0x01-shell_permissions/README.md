@@ -16,5 +16,4 @@
 101-symbolic_link_permissions - change the permission of a symbolic link
 102-if_only - change permission from the current owner to the new owner
 103-Star_Wars - Watch Starwars in the CLI, how cool is that!
-school.mgc -  Creation of a magic file
 
