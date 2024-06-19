@@ -17,3 +17,4 @@
 101-clean_emacs - Deletes all files that contains this character ~
 102-tree - Create folder inside a folder
 103-commas - Manipulations with a simple command
+school.mgc - Creation of a magic file
