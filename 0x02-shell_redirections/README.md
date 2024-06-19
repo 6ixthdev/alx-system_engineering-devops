@@ -5,5 +5,5 @@
 4-lastlines - prints the last 10 lines of a file
 5-firstlines - pritns the first 10 lines of a file
 6-third_line - a scripts that displays the 3rd line of a file
-8-cwd_state - print the result of ls -la to a file
-
+7-file - Creating a file with special characters s the filename
+8-cwd_state - write the listing to a file
