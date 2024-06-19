@@ -6,4 +6,5 @@
 5-firstlines - pritns the first 10 lines of a file
 6-third_line - a scripts that displays the 3rd line of a file
 8-cwd_state - write the listing to a file
-9-duplicate_last_line - this command duplicates the last line
+9-duplicate_last_line - Duplicates the last line of the file
+10-no_more_js - deletes all the js files in the current directory and subdirectory
