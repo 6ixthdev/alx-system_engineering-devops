@@ -5,6 +5,5 @@
 4-lastlines - prints the last 10 lines of a file
 5-firstlines - pritns the first 10 lines of a file
 6-third_line - a scripts that displays the 3rd line of a file
-8-cwd_state - write the listing to a file
-9-duplicate_last_line - Duplicates the last line of the file
-10-no_more_js - deletes all the js files in the current directory and subdirectory
+8-cwd_state - write the listing.
+12-newest_files -  prints the 10 newest files
